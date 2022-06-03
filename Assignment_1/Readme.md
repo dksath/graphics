@@ -116,7 +116,8 @@ void SetMeshColor(int &colorID)
 ```
 Screenshot of color change
 
-![Screenshot](./Assignment_1/data/Screenshot%202022-06-03-173616.png) 
+![Screenshot](./data/Screenshot%202022-06-03-173616.png)
+
 
 
 
@@ -132,8 +133,8 @@ void ScaleModel(float scale)
 
 Screenshot of scaling
 
-![Screenshot](./Assignment_1_win/data/Screenshot%202022-06-03-173742.png) 
-![Screenshot](./Assignment_1_win/data/Screenshot%202022-06-03-173836.png)
+![Screenshot](./data/Screenshot%202022-06-03-173742.png) 
+![Screenshot](./data/Screenshot%202022-06-03-173836.png)
 
 
 
@@ -147,7 +148,7 @@ void RotateModel(float angle, glm::vec3 axis)
 ```
 Screenshot of rotation
 
-![Screenshot](./Assignment_1_win/data/Screenshot%202022-06-03-173900.png) 
+![Screenshot](./data/Screenshot%202022-06-03-173900.png) 
 
 ## Mesh Translation
 Using the same glm library, translation vector is collected and upon clicking the left-shift button translation is possible.
@@ -158,4 +159,4 @@ void TranslateModel(glm::vec3 transVec)
 }
 ```
 Screenshot of translation
-![Screenshot](./Assignment_1_win/data/Screenshot%202022-06-03-173926.png)
+![Screenshot](./data/Screenshot%202022-06-03-173926.png)
