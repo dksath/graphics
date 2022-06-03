@@ -116,7 +116,7 @@ void SetMeshColor(int &colorID)
 ```
 Screenshot of color change
 
-![Screenshot](./Assignment_1_win/data/Screenshot%202022-06-03-173616.png) 
+![Screenshot](./Assignment_1/data/Screenshot%202022-06-03-173616.png) 
 
 
 
