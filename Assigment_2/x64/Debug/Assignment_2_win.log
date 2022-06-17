@@ -1,0 +1,3 @@
+﻿  SkeletalModel.cpp
+D:\ChromeDownloads\Assignment_2_code\Assignment_2_win\src\SkeletalModel.cpp(98,43): warning C4101: 'normal': unreferenced local variable
+  Assignment_2_win.vcxproj -> D:\ChromeDownloads\Assignment_2_code\Assignment_2_win\x64\Debug\Assignment_2_win.exe
