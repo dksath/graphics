@@ -1,0 +1,121 @@
+﻿  main.cpp
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\Mesh.h(338,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(108,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(109,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(124,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(125,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(143,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(144,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(161,40): warning C4305: '=': truncation from 'double' to 'float'
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(162,40): warning C4305: '=': truncation from 'double' to 'float'
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(316,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(317,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(318,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(327,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(328,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(329,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(338,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(339,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(340,44): warning C4244: '=': conversion from '_Ty' to 'T', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(372,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(373,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(374,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(556,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(557,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(565,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(566,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(568,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(569,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(576,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(577,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(579,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(580,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(548,16): warning C4101: 'dy': unreferenced local variable
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(548,12): warning C4101: 'dx': unreferenced local variable
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(608,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\src\main.cpp(767,73): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Assignment_3_win.vcxproj -> D:\ChromeDownloads\Assignment_3_code\Assignment_3_win\x64\Debug\Assignment_3_win.exe
