@@ -138,7 +138,7 @@ virtual bool intersect( const Ray& r , Hit& h , float tmin)
 
 In order to calculate the interpolated normal, I had to calculate the barycentric coordinates first, thus I was to calculate the areas accordingly to get area ABC, beta (`wb` from image) and gamma (`wc` from image). I calculated the determinant of `3x3` matrices, which is filled with each vector such as `(C-A)` and `(B-A)` to get its respective areas. The `1/2` will cancel out when divided with area of `ABC`. alpha (`wa`) is calculated using its inside condition `1 - beta - gamma` as shown below in the picture. I then solved for t using Cramer's rule.
 
-![][image_ref_a32ff4ads]
+[![Day calendar](http://wanochoi.com/wp-content/uploads/2018/10/BarycentricCoordinates.002.jpeg "Day calendar")][ss1]
 
 ```cpp
 virtual bool intersect( const Ray& ray,  Hit& hit , float tmin)
@@ -227,3 +227,4 @@ To add specular intesnity, I used the Phong equation `r = 2n(n.l)-l` to get refl
 
 ![Screenshot](./image/scene_1.bmp) ![Screenshot](./image/scene_2.bmp) ![Screenshot](./image/scene_3.bmp)![Screenshot](./image/scene_4.bmp) ![Screenshot](./image/scene_5.bmp) ![Screenshot](./image/scene_6.bmp)
 
+[ss1]: http://wanochoi.com/wp-content/uploads/2018/10/BarycentricCoordinates.002.jpeg
